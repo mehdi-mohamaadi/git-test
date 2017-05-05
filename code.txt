@@ -5,6 +5,7 @@ just text
 changed text
 just text
 just text
+add some text
 just text
 just text
 just text
